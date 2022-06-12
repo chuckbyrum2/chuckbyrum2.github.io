@@ -1,4 +1,4 @@
-# Spiro's Family Restuarant
+# Spiro's Family Restaurant
 
 ### Salads
 - Chef Salad
