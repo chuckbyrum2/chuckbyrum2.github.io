@@ -13,7 +13,7 @@
 **Steaks served w/choice of 1 Side and 1 Trip Salad Bar**
 
 ### Sandwiches
-**(Served w/French Fries)
+**(Served w/French Fries)**
 - 4oz Hamburger
 - 8oz Hamburger
 - Patty Melt (Served on Texas Toast)
