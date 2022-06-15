@@ -1,4 +1,4 @@
-**[Home](https://chuckbyrum2.github.io/)** <br>
+#### [Home](https://chuckbyrum2.github.io/)
 
 # Sakura Japanese Express
 ## Phone:336.475.7733
