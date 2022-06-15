@@ -1,4 +1,4 @@
-**[Home](https://chuckbyrum2.github.io/)** <br>
+#### [Home](https://chuckbyrum2.github.io/)
 
 # Ranch-O Family Restaurant
 ## Phone: 336.861.5590
