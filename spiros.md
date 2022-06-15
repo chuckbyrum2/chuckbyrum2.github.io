@@ -1,4 +1,4 @@
-**[Home](https://chuckbyrum2.github.io/)** <br>
+##### [Home](https://chuckbyrum2.github.io/) <br>
 
 # Spiro's Family Restaurant
 ## Phone: 336.883.1390
