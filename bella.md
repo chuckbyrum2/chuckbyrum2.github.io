@@ -2,6 +2,6 @@
 
 # Bella's Grill
 ## Phone: 336.313.5358
-#### menu: https://www.allmenus.com/nc/thomasville/1020658-bellas-grill/menu/ 
+#### menu: [Bella's menu](https://www.allmenus.com/nc/thomasville/1020658-bellas-grill/menu/) 
 
 
