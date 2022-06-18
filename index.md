@@ -10,7 +10,9 @@
 ### [East Coast Wings - Thomasville](https://eastcoastwings.olo.com/menu/east-coast-wings-grill-thomasville-nc/) 
 ### [Sixty Six Grill & Tap - Thomasville](https://www.sixtysixgrillandtap.com/menu) 
 ### [Mazatlan Family Mexican Restaurant](http://www.mazatlanthomasville.com/) 
-### [PANCHOS VILLA'S](http://www.mypanchovillas.com/food-menu)
+### [Bella's Grill](https://chuckbyrum2.github.io/bella)
+### [PANCHOS VILLA'S - High Point](http://www.mypanchovillas.com/food-menu)
+### [Skippers Seafood - High Point](https://chuckbyrum2.github.io/skippers)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
 
