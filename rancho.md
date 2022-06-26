@@ -60,17 +60,65 @@
 ### Salads
 
 ### Seafood Specials
+**Seasfood May Contain Small Bones**
+Served w/Baked Potato, Hush Puppies & 2 Vegetables
+- Fresh Fillet of Flounder or Alaskain
+- Fresh Popcorn Shrimp
+- Salmon
+- **Combination Seafood Platter**
+  Popcorn shrimp, Deviled Crab & Flounder OR Alaskain Whitefish
+      --- No Substitutions ---
 
 ### Italian Cuisine
+**Serviced w/ Salad & Garlic Bread**
+- Spaghetti w/Meat Sauce
+- Spaghetti w/Meatballs  & Meat Sauce
+- Spaghetti Veal Parmesain w/Meat Sauce
 
 ### Oven Baked Plates w/Mozzarella Cheese
+**Served W/Salad & Garlic Bread**
+
 
 ### Senior's Plates
+**Must Be Over 60 Years Old**
 
-### Vegables
+### Vegetables
+- Pinto Beans
+- Baked Beans
+- Blackeyed Peas
+- Green Beans
+- Turnip Greens
+- Green Peas
+- Broccoli
+- Rice & Gravy
+- Macaroni & Cheese
+- Mashed Potatoes
+- Buttered Corn
+- Cabbage
+- Small Salad w/Tom
+- Cole Slaw
+- Sliced Tomato
+- French Fries
+- Fried Okra
+- Fried Squash
+- Potato Salad
+- Cottage Cheese
+- AppleSauce
+- Fruit Cocktail
+- Peaches
+- Candied Yams
+- Limas
 
 ### Beverages
+- Soft Drinks - Pepsi, Diet Pepsi, Dr. Pepper, Mt. Dew, Mist, Twist, Cheerwine, lemonade
+- Coffee
+- Decaf Coffee
+- Iced Tea (sweetened & unsweetnded)
+- Milk
 
 ### Desserts
 
 ## Daily Specials
+
+
+## Due to our concern for your health we will only cook your hamburger meats to well done.
