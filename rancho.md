@@ -2,6 +2,8 @@
 
 # Ranch-O Family Restaurant
 ## Phone: 336.861.5590
+**Hours: Monday-Saturday 11:00AM - 8:30PM**
+       **Sunday 11:00AM - 3:00PM**
 
 ### Sandwiches
 **Deluxe Plates Served with 2 Vegatables**
@@ -78,7 +80,7 @@ Served w/Baked Potato, Hush Puppies & 2 Vegetables
 - Salmon
 - **Combination Seafood Platter**
   Popcorn shrimp, Deviled Crab & Flounder OR Alaskain Whitefish
-      --- No Substitutions ---
+             --- No Substitutions ---
 
 ### Italian Cuisine
 **Serviced w/ Salad & Garlic Bread**
@@ -103,6 +105,13 @@ Served w/Baked Potato, Hush Puppies & 2 Vegetables
 
 ### Senior's Plates
 **Must Be Over 60 Years Old**
+- Flounder OR Alaskan W/Baked Potato, Slaw & Hushpuppies
+- Shrimp W/Baked Potato, Slaw & Hushpuppies
+- Spaghetti W/Salad & Garlic Bread
+- Hamburger Steak W/Choice of 2 Vegetables
+- Tenderoin W/Choice of 2 Vegetables
+- Country Style Steak W/Choice of 2 Vegetables
+- Chicken Tenders W/Choice of 2 Vegetables
 
 ### Vegetables
 - Pinto Beans
@@ -151,6 +160,28 @@ Served w/Baked Potato, Hush Puppies & 2 Vegetables
 
 
 ## Daily Specials
+#### Monday's Specials
+
+#### Tuesday's Specials
+
+#### Wednesday's Specials
+
+#### Thursday's Specials
+
+#### Friday's Specials
+
+#### Saturday's Specials
+
+#### Side Orders
+- French Fries
+- Onion Rings
+- Baked Potato
+- Garlic Bread
+- French Bread
+- Vegetables
+- Meat Balls
+- Hush Puppies
+
 
 
 
