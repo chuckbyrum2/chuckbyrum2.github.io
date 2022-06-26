@@ -26,10 +26,36 @@
 
 ### Subs
 **Deluxe Plates Served with 2 Vegatables**
-
+- Rancho Famous Submarine   let, tom, onions
+- Chicken Filet Submarine   let, tom, mqyo,conions
+- Tuna Fish Submarine       let, tom, smothered onions
+- Pepper Steak Submarine    let, tom, onions
+- Ham & Cheese Submarine    let, tom, onions
+- Hamburger Submarine       let, tom, onions
+- Steak & Cheese Submarine  let, tom, onions
+- Marinated Chicken Breast Submarine let, tom, onions
+- Turkey Submarine          let, tom, onions
+- Meatball Submarine  topped w/cheese oven-baked
 
 ### Meats
 **Served with 3 Vegatables**
+- Shaved Virginia Ham
+- Veal Parmesan & Meat Sauce
+- Chopped BBQ Plate w/slaw
+- Grilled Hamburger Steak w/Grilled Onions
+- Boneless Tenderloin
+- Marinated Chicken Breast
+- Chicken Tenders
+- Grilled Cube Steak w/Grilled Onions 10oz
+- Country Style Steak
+- Pork Chops
+- Ribeye Steak 10oz
+- Marinated Beef Strips w/Grilled Onions
+- Teriyaki Chicken Breast
+- Chicken Fried Chickent
+- Country Fried Steak
+- Turkey - Hot Open-Faced Sandwich w/2 vegetables
+- Roast Beef - Hot Open-Faced Sandwich w/2 vegetables
 
 ### Salads
 
