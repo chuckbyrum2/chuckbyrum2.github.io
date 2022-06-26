@@ -2,7 +2,7 @@
 
 # Ranch-O Family Restaurant
 ## Phone: 336.861.5590
-**Hours: Monday-Saturday 11:00AM - 8:30PM**
+**Hours: Monday-Saturday 11:00AM - 8:30PM** <br>
        **Sunday 11:00AM - 3:00PM**
 
 ### Sandwiches
