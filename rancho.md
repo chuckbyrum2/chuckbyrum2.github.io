@@ -161,16 +161,45 @@ Served w/Baked Potato, Hush Puppies & 2 Vegetables
 
 ## Daily Specials
 #### Monday's Specials
+- Hamburger Steak W/Gravy w/your choice of 2 vegetables
+- Chicken Dumplings w/your choice of 2 vegetables
+- Beef Stew over Rice w/your choice of 2 vegetables
+- Fresh Fried Flounder w/Baked Potato, Cole Slaw & Hushpuppies
+- Baked Spaghetti w/Salad & Bread
+- Vegetables Plate w/your choice of 4 vegetables
 
 #### Tuesday's Specials
+- Grilled Chicken Strips w/Onions and Green Peppers & your choice of 2 Vegetables
+- Country Style Steak w/your choice of 2 vegetables
+- BBQ Ribs w/your choice of 2 vegetables
+- Mini Meatballs Over Rice & your choice of 2 vegetables
+- Vegetables Plate w/your choice of 4 vegetables
 
 #### Wednesday's Specials
+- Meat Loaf w/your choice of 2 vegetables
+- Popcorn Shrimp w/Baked Potato, Cole Slaw & HushPuppies
+- Greek Baked Chicken Over Rice & your choice of 2 vegetables
+- Fettuccine Alfredo w/Sald & Bread
+- Vegetables Plate w/your choice of 4 vegetables
 
 #### Thursday's Specials
+- Chicken Pie w/your choice of 2 vegetables
+- Roast Beef w/Gravy w/your choice of 2 vegetables
+- Country Style Steak w/your choice of 2 vegetables
+- Vegetables Plate w/your choice of 4 vegetables
 
 #### Friday's Specials
+- Spaghetti w/Meat Sauce w/Salad & Bread
+- Lasagna w/Meat Sauce w/Salad & Bread
+- BBQ Chicken w/your choice of 2 vegetables
+- Vegetables Plate w/your choice of 4 vegetables
 
 #### Saturday's Specials
+- Kielbasa Sausage with Onions and Green Peppers & your choice of 2 vegetables
+- Chicken Tenders w/your choice of 2 vegetables
+- Fried Shrimp Salad
+- Meatball Sub - topped with cheese
+- Vegetables Plate w/your choice of 4 vegetables
 
 #### Side Orders
 - French Fries
