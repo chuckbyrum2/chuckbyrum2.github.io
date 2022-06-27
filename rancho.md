@@ -60,7 +60,7 @@
 - Roast Beef - Hot Open-Faced Sandwich w/2 vegetables
 
 ### Salads
-**Served with either Pita Bread or Captain's Wafers**
+**Served with either Pita Bread or Captain's Wafers** <br>
 **Dressings Choices: Thousand Island, Ranch, Italian, Fat Free Italian, Blue Cheese, French Greek, Balsamic Vinaigrette, Honey Mustard, OR Oil & Vinegar**
 - Plain Salad (Tom & Lett)
 - Chef Salad (Tom, Ham, Cheese & Lett)    Sm./Lg.  
