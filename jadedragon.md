@@ -5,3 +5,4 @@
 
 **Closed - Sunday**
 
+[menu](https://www.allmenus.com/nc/thomasville/446001-jade-dragon/menu/)
