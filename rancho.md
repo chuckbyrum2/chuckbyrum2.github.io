@@ -61,7 +61,7 @@
 
 ### Salads
 **Served with either Pita Bread or Captain's Wafers**
-**Dressings Choices: Thousand Island, Ranch, Italian, Fat Free Italian, Blue Cheese, French Greek, Balsamic Vinaigrette, Honey Mustard, OR Oil & Vinegar
+**Dressings Choices: Thousand Island, Ranch, Italian, Fat Free Italian, Blue Cheese, French Greek, Balsamic Vinaigrette, Honey Mustard, OR Oil & Vinegar**
 - Plain Salad (Tom & Lett)
 - Chef Salad (Tom, Ham, Cheese & Lett)    Sm./Lg.  
 - Julienne Salad (Tom, Ham, Turkey, Chesse & Lett)   Sm./Lg.
