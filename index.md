@@ -11,7 +11,8 @@
 ### [Sixty Six Grill & Tap - Thomasville](https://www.sixtysixgrillandtap.com/menu) 
 ### [Mazatlan Family Mexican Restaurant](http://www.mazatlanthomasville.com/) 
 ### [Bella's Grill](https://chuckbyrum2.github.io/bella)
-### [PANCHOS VILLA'S - High Point](http://www.mypanchovillas.com/food-menu)
+### [Los Agaves Mexican](https://chuckbyrum2.github.io/losagaves)
+### [Panchos Villa's - High Point](http://www.mypanchovillas.com/food-menu)
 ### [Skippers Seafood - High Point](https://chuckbyrum2.github.io/skippers)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
