@@ -20,4 +20,5 @@
 ### [Bad Daddy's Burger Bar - Greensboro/Winston Salem](https://www.baddaddysburgerbar.com)
 ### [The PorterHouse Burger Company - High Point/Greensboro](https://www.porterhouseburgerco.com)
 
+### [Pepper's Restaurant & Bar - Boone](https://www.peppers-restaurant.com/menu)
 ### [Woodlands BBQ - Blowing Rock](https://www.woodlandsbbq.com/)<br>
