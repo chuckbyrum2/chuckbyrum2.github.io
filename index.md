@@ -17,5 +17,7 @@
 ### [Godfather's Pizza - Lexington](https://www.godfathers.com/home)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
+### [Bad Daddy's Burger Bar - Greensboro/Winston Salem](https://www.baddaddysburgerbar.com)
+### [The PorterHouse Burger Company - High Point/Greensboro](https://www.porterhouseburgerco.com)
 
 ### [Woodlands BBQ - Blowing Rock](https://www.woodlandsbbq.com/)<br>
