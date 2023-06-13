@@ -14,6 +14,7 @@
 ### [Los Agaves Mexican](https://chuckbyrum2.github.io/losagaves)
 ### [Panchos Villa's - High Point](http://www.mypanchovillas.com/food-menu)
 ### [Skippers Seafood - High Point](https://chuckbyrum2.github.io/skippers)
+### [Spiros Family Restaurant - High Point]([https://www.facebook.com/Spirosfamilyrestaurant])
 ### [Godfather's Pizza - Lexington](https://www.godfathers.com/home)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
