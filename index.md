@@ -3,7 +3,7 @@
 ### [Spiro's](https://chuckbyrum2.github.io/spiros) 
 ### [Ranch-O](https://chuckbyrum2.github.io/rancho) 
 ### [Sakura Japanese Express](https://chuckbyrum2.github.io/sakura)
-### [Dugout Archdale](https://www.dugutarchdale.com/menu) 
+### [Dugout Archdale](https://www.dugoutarchdale.com/menu) 
 ### [China Capital - High Point](https://chuckbyrum2.github.io/chinacapital)
 ### [BBQ Joe's Trinity](https://www.bbqjoes.com/)
 ### [Rosa Mae's Cafe](https://www.rosamaescafe.com/menu.html) 
