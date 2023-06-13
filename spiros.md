@@ -2,6 +2,7 @@
 
 # Spiro's Family Restaurant
 ## Phone: 336.883.1390
+### [Spiros Family Restaurant - on Facebook](https://www.facebook.com/Spirosfamilyrestaurant)
 
 ### Salads
 - Chef Salad
