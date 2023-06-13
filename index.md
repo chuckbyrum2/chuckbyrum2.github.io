@@ -3,7 +3,7 @@
 ### [Spiro's](https://chuckbyrum2.github.io/spiros) 
 ### [Ranch-O](https://chuckbyrum2.github.io/rancho) 
 ### [Sakura Japanese Express](https://chuckbyrum2.github.io/sakura)
-### [Dugout Archdale](https://dugutarchdale.com/menu) 
+### [Dugout Archdale](https://www.dugutarchdale.com/menu) 
 ### [China Capital - High Point](https://chuckbyrum2.github.io/chinacapital)
 ### [BBQ Joe's Trinity](https://www.bbqjoes.com/)
 ### [Rosa Mae's Cafe](https://www.rosamaescafe.com/menu.html) 
@@ -14,7 +14,7 @@
 ### [Los Agaves Mexican](https://chuckbyrum2.github.io/losagaves)
 ### [Panchos Villa's - High Point](http://www.mypanchovillas.com/food-menu)
 ### [Skippers Seafood - High Point](https://chuckbyrum2.github.io/skippers)
-### [Godfather's Pizza - Lexington](https://godfathers.com/home)
+### [Godfather's Pizza - Lexington](https://www.godfathers.com/home)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
 
