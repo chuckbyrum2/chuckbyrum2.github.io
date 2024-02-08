@@ -85,7 +85,7 @@ _Whole pound / 1/2 pound_ <br>
 **Available Daily** <br>
 - Brisket
 - Smoked Sausage
-- Jalapeno White Cheddar
+- Jalapeno White Cheddar <br>
 **Tuesday** - Pulled Pork <br>
 **Wednesday** - Smoked Turkey <br>
 **Thursday** - 1/2 Rack Ribs or Whole Rack Ribs <br>
@@ -106,12 +106,12 @@ _Side / Pint / Quart_ <br>
 - Roasted Potato Bites
 
 ### Bulk Items To Go
-_1/2 Pint / Pint / Quart / Gallon_ <br>
+###### 1/2 Pint / Pint / Quart / Gallon
 - Chili
 - Loosey Goosey (Dip)
 - House Sauce (choice of Regular, Sweet or Spicy)
 
-_Side / Pint / Gallon_ <br>
+###### Side / Pint / Gallon
 - Cole Slaw - White
 - BBQ Slaw - Red
 - Sweet Potato Casserole
@@ -176,7 +176,7 @@ _1/2 Chicken_ <br>
 ### BUILD YOUR OWN SPECIAL
 - Pick Your Choice of Meat(s), Side(s), Dip and Bread
 
-## Meats Smoked Daily  Available until Sold Out
+## _Meats Smoked Daily  Available until Sold Out_
 
 
 
