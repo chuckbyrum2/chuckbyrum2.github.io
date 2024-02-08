@@ -15,6 +15,7 @@
 ### [Panchos Villa's - High Point](http://www.mypanchovillas.com/food-menu)
 ### [Skippers Seafood - High Point](https://chuckbyrum2.github.io/skippers)
 ### [Godfather's Pizza - Lexington](https://www.godfathers.com/home)
+### [Bridgett's Kitchen - Lexington](https://chuckbyrum2.github.io/bridgettsk)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
 ### [Bad Daddy's Burger Bar - Greensboro/Winston Salem](https://www.baddaddysburgerbar.com)
