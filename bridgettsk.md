@@ -63,7 +63,8 @@ _**Choice of 2 Sides and Bread_
 - ADD Pimento Cheese
 - ADD Grilled Onions
 - ADD Grilled Green Peppers
-- ADD Grilled Jalapenos <br>_**Sandwich toppings include choice of: <br>
+- ADD Grilled Jalapenos <br>
+_**Sandwich toppings include choice of: <br>
 Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, Coleslaw_
 
 ### DESSERTS
@@ -73,18 +74,17 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 - Cherry Yum Yum
 
 ### A LA CARTE ITEMS
-**Brisket** _Whole pound / 1/2 pound_ <br>
-**Smoked Sausage** _Whole pound / 1/2 pound_ <br>
-**Pork Ribs** _Whole pound / 1/2 pound_ <br>
-**BBQ Chicken** _Whole pound / 1/2 pound_ <br>
-**Pulled Pork** _Whole pound / 1/2 pound_ <br>
+**Brisket** _-Whole pound / 1/2 pound_ <br>
+**Smoked Sausage** _-Whole pound / 1/2 pound_ <br>
+**Pork Ribs** _-Whole pound / 1/2 pound_ <br>
+**BBQ Chicken** _-Whole pound / 1/2 pound_ <br>
+**Pulled Pork** _-Whole pound / 1/2 pound_ <br>
 
 ### Dinner Plates 
-**Available Daily** <br>
+**Available Daily**<br>
 - Brisket
 - Smoked Sausage
 - Jalapeno White Cheddar <br>
-
 **Tuesday** - Pulled Pork <br>
 **Wednesday** - Smoked Turkey <br>
 **Thursday** - 1/2 Rack Ribs or Whole Rack Ribs <br>
@@ -92,45 +92,45 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 _**All dinner plates are served with 1/2 pound of meat, choice of your 2 sides & bread_
 
 ### A LA CARTE ITEMS
-- Sweet Potato Casserole      _Side / Pint / Quart_ 
-- Red Skin Potato Salad       _Side / Pint / Quart_
-- 4 Cheese Smoked Mac & Cheese       _Side / Pint / Quart_
-- Pasta Salad       _Side / Pint / Quart_
-- Southern Green Beans       _Side / Pint / Quart_
-- Creamed Potatoes       _Side / Pint / Quart_
-- Baked Beans       _Side / Pint / Quart_
-- Cole Slaw-white       _Side / Pint / Quart_
-- BBQ Slaw-red       _Side / Pint / Quart_
-- Roasted Potato Bites       _Side / Pint / Quart_
+- Sweet Potato Casserole      _-Side / Pint / Quart_ 
+- Red Skin Potato Salad       _-Side / Pint / Quart_
+- 4 Cheese Smoked Mac & Cheese       _-Side / Pint / Quart_
+- Pasta Salad       _-Side / Pint / Quart_
+- Southern Green Beans       _-Side / Pint / Quart_
+- Creamed Potatoes       _-Side / Pint / Quart_
+- Baked Beans       _-Side / Pint / Quart_
+- Cole Slaw-white       _-Side / Pint / Quart_
+- BBQ Slaw-red       _-Side / Pint / Quart_
+- Roasted Potato Bites       _-Side / Pint / Quart_
 
 ### Bulk Items To Go
-- Chili       _1/2 Pint / Pint / Quart / Gallon_
-- Loosey Goosey (Dip)       _1/2 Pint / Pint / Quart / Gallon_
-- House Sauce (choice of Regular, Sweet or Spicy)       _1/2 Pint / Pint / Quart / Gallon_
+- Chili       _-1/2 Pint / Pint / Quart / Gallon_
+- Loosey Goosey (Dip)       _-1/2 Pint / Pint / Quart / Gallon_
+- House Sauce (choice of Regular, Sweet or Spicy)       _-1/2 Pint / Pint / Quart / Gallon_
 
-- Cole Slaw - White       _Side / Pint / Gallon_
-- BBQ Slaw - Red       _Side / Pint / Gallon_
-- Sweet Potato Casserole       _Side / Pint / Gallon_
-- Red Skin Potato Salad       _Side / Pint / Gallon_
-- Smoked Mac & Cheese      _Side / Pint / Gallon_ 
-- Pasta Salad       _Side / Pint / Gallon_
-- Southern Green Beano       _Side / Pint / Gallon_
-- Creamed Potatoes       _Side / Pint / Gallon_
-- Baked Beans      _Side / Pint / Gallon_ 
-- Roasted Potato Bites       _Side / Pint / Gallon_
-- Collard Greens       _Side / Pint / Gallon_
-- Fried Okra       _Side / Pint / Gallon_
+- Cole Slaw - White       _-Side / Pint / Gallon_
+- BBQ Slaw - Red       _-Side / Pint / Gallon_
+- Sweet Potato Casserole       _-Side / Pint / Gallon_
+- Red Skin Potato Salad       _-Side / Pint / Gallon_
+- Smoked Mac & Cheese      _-Side / Pint / Gallon_ 
+- Pasta Salad       _-Side / Pint / Gallon_
+- Southern Green Beano       _-Side / Pint / Gallon_
+- Creamed Potatoes       _-Side / Pint / Gallon_
+- Baked Beans      _-Side / Pint / Gallon_ 
+- Roasted Potato Bites       _-Side / Pint / Gallon_
+- Collard Greens       _-Side / Pint / Gallon_
+- Fried Okra       _-Side / Pint / Gallon_
 
-- Smoked Brisket       _1/2 Pound / 1 Pound_
-- Smoked Turkey       _1/2 Pound / 1 Pound_
-- Smoked Pulled Pork       _1/2 Pound / 1 Pound_
+- Smoked Brisket       _-1/2 Pound / 1 Pound_
+- Smoked Turkey       _-1/2 Pound / 1 Pound_
+- Smoked Pulled Pork       _-1/2 Pound / 1 Pound_
 
-- Pork Ribs      _1/2 Rack / Whole Rack_ 
+- Pork Ribs      _-1/2 Rack / Whole Rack_ 
 
-- Smoked Sausage       _1/2 Link / Whole Link_
-- White Cheddar Jalapeno Smoked Sausage       _1/2 Link / Whole Link_
+- Smoked Sausage       _-1/2 Link / Whole Link_
+- White Cheddar Jalapeno Smoked Sausage       _-1/2 Link / Whole Link_
   
-- BBQ Chicken       _1/2 Chicken_
+- BBQ Chicken       _-1/2 Chicken_
 
 - Buns / BBQ Bread
 - Buns
