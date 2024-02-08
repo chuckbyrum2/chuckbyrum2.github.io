@@ -81,10 +81,11 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 **Pulled Pork** _-Whole pound / 1/2 pound_ <br>
 
 ### Dinner Plates 
-**Available Daily**<br>
+**Available Daily**
 - Brisket
 - Smoked Sausage
-- Jalapeno White Cheddar <br>
+- Jalapeno White Cheddar
+
 **Tuesday** - Pulled Pork <br>
 **Wednesday** - Smoked Turkey <br>
 **Thursday** - 1/2 Rack Ribs or Whole Rack Ribs <br>
