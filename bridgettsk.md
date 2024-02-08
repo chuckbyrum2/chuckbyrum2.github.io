@@ -15,7 +15,7 @@
 - Pulled Port Salad
 - Brisket Salad
 - Turkey Salad <br>
-_Ranch, Thousand Island, Honey Mustard, Vinaigrette_
+_**Ranch, Thousand Island, Honey Mustard, Vinaigrette_
 
 ### PLATES
 - Smoked Pulled Pork
@@ -36,7 +36,7 @@ _Ranch, Thousand Island, Honey Mustard, Vinaigrette_
 - Chicken Strips (4)
 - Choice of 2 Smoked Meats Combo
 - Choice of 3 Smoked Meates Combo <br>
-_Choice of 2 Sides and Bread_
+_**Choice of 2 Sides and Bread_
 
 ### SANDWICHES
 - Smoked Pulled Pork
@@ -64,7 +64,7 @@ _Choice of 2 Sides and Bread_
 - ADD Grilled Onions
 - ADD Grilled Green Peppers
 - ADD Grilled Jalapenos <br>
-_Sandwich toppings include choice of: <br>
+_**Sandwich toppings include choice of: <br>
 Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, Coleslaw_
 
 ### DESSERTS
@@ -74,12 +74,12 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 - Cherry Yum Yum
 
 ### A LA CARTE ITEMS
-_Whole pound / 1/2 pound_ <br>
 **Brisket** <br>
 **Smoked Sausage** <br>
 **Pork Ribs** <br>
 **BBQ Chicken** <br>
 **Pulled Pork** <br>
+_**Whole pound / 1/2 pound_
 
 ### Dinner Plates 
 **Available Daily** <br>
@@ -90,10 +90,9 @@ _Whole pound / 1/2 pound_ <br>
 **Wednesday** - Smoked Turkey <br>
 **Thursday** - 1/2 Rack Ribs or Whole Rack Ribs <br>
 **Friday** - 1/2 BBQ Chicken <br>
-_All dinner plates are served with 1/2 pound of meat, choice of your 2 sides & bread_
+_**All dinner plates are served with 1/2 pound of meat, choice of your 2 sides & bread_
 
 ### A LA CARTE ITEMS
-_Side / Pint / Quart_ <br>
 - Sweet Potato Casserole
 - Red Skin Potato Salad
 - 4 Cheese Smoked Mac & Cheese
@@ -103,15 +102,15 @@ _Side / Pint / Quart_ <br>
 - Baked Beans
 - Cole Slaw-white
 - BBQ Slaw-red
-- Roasted Potato Bites
+- Roasted Potato Bites <br>
+_**Side / Pint / Quart_
 
 ### Bulk Items To Go
-###### 1/2 Pint / Pint / Quart / Gallon
 - Chili
 - Loosey Goosey (Dip)
-- House Sauce (choice of Regular, Sweet or Spicy)
+- House Sauce (choice of Regular, Sweet or Spicy) <br>
+_**1/2 Pint / Pint / Quart / Gallon_
 
-###### Side / Pint / Gallon
 - Cole Slaw - White
 - BBQ Slaw - Red
 - Sweet Potato Casserole
@@ -123,22 +122,23 @@ _Side / Pint / Quart_ <br>
 - Baked Beans
 - Roasted Potato Bites
 - Collard Greens
-- Fried Okra
+- Fried Okra <br>
+_**Side / Pint / Gallon_
 
-_1/2 Pound / 1 Pound_ <br>
 - Smoked Brisket
 - Smoked Turkey
 - Smoked Pulled Pork
+_**1/2 Pound / 1 Pound_
 
-_1/2 Rack / Whole Rack_ <br>
 - Pork Ribs
+_**1/2 Rack / Whole Rack_
 
-_1/2 Link / Whole Link_ <br>
 - Smoked Sausage
 - White Cheddar Jalapeno Smoked Sausage
+_**1/2 Link / Whole Link_
 
-_1/2 Chicken_ <br>
 - BBQ Chicken
+_**1/2 Chicken_
 
 - Buns / BBQ Bread
 - Buns
