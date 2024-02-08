@@ -1,7 +1,7 @@
 #### [Home] (https://chuckbyrum2.github.io/)
 
 
-# Bridgett's Kitchen (https://facebook.com/p/Bridgetts-kitchen-100082859605998/)
+# [Bridgett's Kitchen] (https://facebook.com/p/Bridgetts-kitchen-100082859605998/)
 ## Phone: 336.590.9759
 **Hours: Sunday - Monday Closed** <br>
         **Tuesday - Saturday 11:00AM - 8:00PM**
