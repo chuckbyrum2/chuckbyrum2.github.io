@@ -63,8 +63,7 @@ _**Choice of 2 Sides and Bread_
 - ADD Pimento Cheese
 - ADD Grilled Onions
 - ADD Grilled Green Peppers
-- ADD Grilled Jalapenos <br>
-_**Sandwich toppings include choice of: <br>
+- ADD Grilled Jalapenos <br>_**Sandwich toppings include choice of: <br>
 Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, Coleslaw_
 
 ### DESSERTS
@@ -74,18 +73,18 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 - Cherry Yum Yum
 
 ### A LA CARTE ITEMS
-**Brisket** <br>
-**Smoked Sausage** <br>
-**Pork Ribs** <br>
-**BBQ Chicken** <br>
-**Pulled Pork** <br>
-_**Whole pound / 1/2 pound_
+**Brisket** _Whole pound / 1/2 pound_ <br>
+**Smoked Sausage** _Whole pound / 1/2 pound_ <br>
+**Pork Ribs** _Whole pound / 1/2 pound_ <br>
+**BBQ Chicken** _Whole pound / 1/2 pound_ <br>
+**Pulled Pork** _Whole pound / 1/2 pound_ <br>
 
 ### Dinner Plates 
 **Available Daily** <br>
 - Brisket
 - Smoked Sausage
 - Jalapeno White Cheddar <br>
+
 **Tuesday** - Pulled Pork <br>
 **Wednesday** - Smoked Turkey <br>
 **Thursday** - 1/2 Rack Ribs or Whole Rack Ribs <br>
@@ -93,52 +92,45 @@ _**Whole pound / 1/2 pound_
 _**All dinner plates are served with 1/2 pound of meat, choice of your 2 sides & bread_
 
 ### A LA CARTE ITEMS
-- Sweet Potato Casserole
-- Red Skin Potato Salad
-- 4 Cheese Smoked Mac & Cheese
-- Pasta Salad
-- Southern Green Beans
-- Creamed Potatoes
-- Baked Beans
-- Cole Slaw-white
-- BBQ Slaw-red
-- Roasted Potato Bites <br>
-_**Side / Pint / Quart_
+- Sweet Potato Casserole      _Side / Pint / Quart_ 
+- Red Skin Potato Salad       _Side / Pint / Quart_
+- 4 Cheese Smoked Mac & Cheese       _Side / Pint / Quart_
+- Pasta Salad       _Side / Pint / Quart_
+- Southern Green Beans       _Side / Pint / Quart_
+- Creamed Potatoes       _Side / Pint / Quart_
+- Baked Beans       _Side / Pint / Quart_
+- Cole Slaw-white       _Side / Pint / Quart_
+- BBQ Slaw-red       _Side / Pint / Quart_
+- Roasted Potato Bites       _Side / Pint / Quart_
 
 ### Bulk Items To Go
-- Chili
-- Loosey Goosey (Dip)
-- House Sauce (choice of Regular, Sweet or Spicy) <br>
-_**1/2 Pint / Pint / Quart / Gallon_
+- Chili       _1/2 Pint / Pint / Quart / Gallon_
+- Loosey Goosey (Dip)       _1/2 Pint / Pint / Quart / Gallon_
+- House Sauce (choice of Regular, Sweet or Spicy)       _1/2 Pint / Pint / Quart / Gallon_
 
-- Cole Slaw - White
-- BBQ Slaw - Red
-- Sweet Potato Casserole
-- Red Skin Potato Salad
-- Smoked Mac & Cheese
-- Pasta Salad
-- Southern Green Beano
-- Creamed Potatoes
-- Baked Beans
-- Roasted Potato Bites
-- Collard Greens
-- Fried Okra <br>
-_**Side / Pint / Gallon_
+- Cole Slaw - White       _Side / Pint / Gallon_
+- BBQ Slaw - Red       _Side / Pint / Gallon_
+- Sweet Potato Casserole       _Side / Pint / Gallon_
+- Red Skin Potato Salad       _Side / Pint / Gallon_
+- Smoked Mac & Cheese      _Side / Pint / Gallon_ 
+- Pasta Salad       _Side / Pint / Gallon_
+- Southern Green Beano       _Side / Pint / Gallon_
+- Creamed Potatoes       _Side / Pint / Gallon_
+- Baked Beans      _Side / Pint / Gallon_ 
+- Roasted Potato Bites       _Side / Pint / Gallon_
+- Collard Greens       _Side / Pint / Gallon_
+- Fried Okra       _Side / Pint / Gallon_
 
-- Smoked Brisket
-- Smoked Turkey
-- Smoked Pulled Pork
-_**1/2 Pound / 1 Pound_
+- Smoked Brisket       _1/2 Pound / 1 Pound_
+- Smoked Turkey       _1/2 Pound / 1 Pound_
+- Smoked Pulled Pork       _1/2 Pound / 1 Pound_
 
-- Pork Ribs
-_**1/2 Rack / Whole Rack_
+- Pork Ribs      _1/2 Rack / Whole Rack_ 
 
-- Smoked Sausage
-- White Cheddar Jalapeno Smoked Sausage
-_**1/2 Link / Whole Link_
-
-- BBQ Chicken
-_**1/2 Chicken_
+- Smoked Sausage       _1/2 Link / Whole Link_
+- White Cheddar Jalapeno Smoked Sausage       _1/2 Link / Whole Link_
+  
+- BBQ Chicken       _1/2 Chicken_
 
 - Buns / BBQ Bread
 - Buns
@@ -176,7 +168,7 @@ _**1/2 Chicken_
 ### BUILD YOUR OWN SPECIAL
 - Pick Your Choice of Meat(s), Side(s), Dip and Bread
 
-## _Meats Smoked Daily  Available until Sold Out_
+#### _Meats Smoked Daily  Available until Sold Out_
 
 
 
