@@ -1,7 +1,7 @@
-#### [Home] (https://chuckbyrum2.github.io/)
+#### [Home](https://chuckbyrum2.github.io/)
 
 
-# [Bridgett's Kitchen] (https://facebook.com/p/Bridgetts-kitchen-100082859605998/)
+# [Bridgett's Kitchen](https://facebook.com/p/Bridgetts-kitchen-100082859605998/)
 ## Phone: 336.590.9759
 **Hours: Sunday - Monday Closed** <br>
         **Tuesday - Saturday 11:00AM - 8:00PM**
@@ -14,11 +14,10 @@
 - Chicken Strip Salad
 - Pulled Port Salad
 - Brisket Salad
-- Turkey Salad
+- Turkey Salad <br>
 _Ranch, Thousand Island, Honey Mustard, Vinaigrette_
 
 ### PLATES
-_Choice of 2 Sides and Bread_
 - Smoked Pulled Pork
 - Smoked Turkey
 - Whole Rack Ribs
@@ -36,11 +35,10 @@ _Choice of 2 Sides and Bread_
 - Smoked Jumbo Wings (4)
 - Chicken Strips (4)
 - Choice of 2 Smoked Meats Combo
-- Choice of 3 Smoked Meates Combo
+- Choice of 3 Smoked Meates Combo <br>
+_Choice of 2 Sides and Bread_
 
 ### SANDWICHES
-_Sandwich toppings include choice of: <br>
-Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, Coleslaw_
 - Smoked Pulled Pork
 - Smoked Pulled Chicken
 - Smoked Brisket
@@ -65,7 +63,9 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 - ADD Pimento Cheese
 - ADD Grilled Onions
 - ADD Grilled Green Peppers
-- ADD Grilled Jalapenos
+- ADD Grilled Jalapenos <br>
+_Sandwich toppings include choice of: <br>
+Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, Coleslaw_
 
 ### DESSERTS
 - Cobbler _Seasonal_
@@ -74,26 +74,26 @@ Mayonaise, Mustard, Kitchup, Lettuce, Tomato, Onion, Pickle, Chilio, BBQ Slaw, C
 - Cherry Yum Yum
 
 ### A LA CARTE ITEMS
-_Whole pound / 1/2 pound_
-**Brisket**
-**Smoked Sausage**
-**Pork Ribs**
-**BBQ Chicken**
-**Pulled Pork**
+_Whole pound / 1/2 pound_ <br>
+**Brisket** <br>
+**Smoked Sausage** <br>
+**Pork Ribs** <br>
+**BBQ Chicken** <br>
+**Pulled Pork** <br>
 
 ### Dinner Plates 
-_All dinner plates are served with 1/2 pound of meat, choice of your 2 sides & bread_
-**Available Daily**
+**Available Daily** <br>
 - Brisket
 - Smoked Sausage
 - Jalapeno White Cheddar
-**Tuesday** - Pulled Pork
-**Wednesday** - Smoked Turkey
-**Thursday** - 1/2 Rack Ribs or Whole Rack Ribs
-**Friday** - 1/2 BBQ Chicken
+**Tuesday** - Pulled Pork <br>
+**Wednesday** - Smoked Turkey <br>
+**Thursday** - 1/2 Rack Ribs or Whole Rack Ribs <br>
+**Friday** - 1/2 BBQ Chicken <br>
+_All dinner plates are served with 1/2 pound of meat, choice of your 2 sides & bread_
 
 ### A LA CARTE ITEMS
-_Side / Pint / Quart_
+_Side / Pint / Quart_ <br>
 - Sweet Potato Casserole
 - Red Skin Potato Salad
 - 4 Cheese Smoked Mac & Cheese
@@ -106,12 +106,12 @@ _Side / Pint / Quart_
 - Roasted Potato Bites
 
 ### Bulk Items To Go
-_1/2 Pint / Pint / Quart / Gallon_
+_1/2 Pint / Pint / Quart / Gallon_ <br>
 - Chili
 - Loosey Goosey (Dip)
 - House Sauce (choice of Regular, Sweet or Spicy)
 
-_Side / Pint / Gallon_
+_Side / Pint / Gallon_ <br>
 - Cole Slaw - White
 - BBQ Slaw - Red
 - Sweet Potato Casserole
@@ -125,19 +125,19 @@ _Side / Pint / Gallon_
 - Collard Greens
 - Fried Okra
 
-_1/2 Pound / 1 Pound_
+_1/2 Pound / 1 Pound_ <br>
 - Smoked Brisket
 - Smoked Turkey
 - Smoked Pulled Pork
 
-_1/2 Rack / Whole Rack_
+_1/2 Rack / Whole Rack_ <br>
 - Pork Ribs
 
-_1/2 Link / Whole Link_
+_1/2 Link / Whole Link_ <br>
 - Smoked Sausage
 - White Cheddar Jalapeno Smoked Sausage
 
-_1/2 Chicken_
+_1/2 Chicken_ <br>
 - BBQ Chicken
 
 - Buns / BBQ Bread
@@ -169,12 +169,14 @@ _1/2 Chicken_
 
 ### POUND SPECIAL
 - Pound Pork, Pt Choice Sauce, Pt Choice of Slaw, Choice of Bread
+
 ### FAMILY SPECIAL
 - Pound Pork, Pt Choice of Sauce, Pt Choice of Slaw, Choice of Bread, and 2 Pint Sides or 1 Qt Side
+
 ### BUILD YOUR OWN SPECIAL
 - Pick Your Choice of Meat(s), Side(s), Dip and Bread
 
-# Meats Smoked Daily  Available until Sold Out
+## Meats Smoked Daily  Available until Sold Out
 
 
 
