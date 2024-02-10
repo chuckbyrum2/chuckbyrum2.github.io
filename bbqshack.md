@@ -1,4 +1,4 @@
-### [Home](https://chuckbyrum2.github.io/)
+#### [Home](https://chuckbyrum2.github.io/)
 
 # BAR-B-QUE SHACK
 ## Phone: 336.472.8566
@@ -14,9 +14,9 @@
 - Steak
 - Butter/Plain
 - Bacon
- - with Egg
- - with Cheese
- - with Tomato & Lettuce
+  - with Egg
+  - with Cheese
+  - with Tomato & Lettuce
 - Gravy Biscuit
 - Small Grits
 - Large Grits
@@ -68,7 +68,7 @@
 - Quart of Chili
 - Peach Cobbler
 #### SALADS
-- BBQ Salad _Lettuce, Cheese, Onions, Pickle, Tomato
+- BBQ Salad _Lettuce, Cheese, Onions, Pickle, Tomato_
 - Chicken Salad
 - Side Salad
 #### BRUNSWICK STEW
