@@ -23,5 +23,7 @@
 ### [Bad Daddy's Burger Bar - Greensboro/Winston Salem](https://www.baddaddysburgerbar.com)
 ### [The PorterHouse Burger Company - High Point/Greensboro](https://www.porterhouseburgerco.com)
 
+### [Hong Kong Cafe - Hickory](https://www.thedeliverychef.com/r/1407/restaurants/delivery/Chinese/Hong-Kong-Cafe-Hickory-Hickory)
+
 ### [Pepper's Restaurant & Bar - Boone](https://www.peppers-restaurant.com/menu)
 ### [Makoto's Japanese Steak House - Boone](https://www.makotos-boone.com/menus/) <br>
