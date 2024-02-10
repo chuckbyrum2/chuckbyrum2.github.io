@@ -14,9 +14,9 @@
 - Steak
 - Butter/Plain
 - Bacon
--- with Egg
--- with Cheese
--- with Tomato & Lettuce
+ - with Egg
+ - with Cheese
+ - with Tomato & Lettuce
 - Gravy Biscuit
 - Small Grits
 - Large Grits
