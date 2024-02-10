@@ -24,4 +24,4 @@
 ### [The PorterHouse Burger Company - High Point/Greensboro](https://www.porterhouseburgerco.com)
 
 ### [Pepper's Restaurant & Bar - Boone](https://www.peppers-restaurant.com/menu)
-### [Woodlands BBQ - Blowing Rock](https://www.woodlandsbbq.com/)<br>
+### [Makoto's Japanese Steak House - Boone](https://www.makotos-boone.com/menus/) <br>
