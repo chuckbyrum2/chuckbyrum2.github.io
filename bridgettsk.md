@@ -22,7 +22,7 @@ _**Ranch, Thousand Island, Honey Mustard, Vinaigrette_
 - Smoked Turkey
 - Whole Rack Ribs
 - 1/2 Rack Ribs
-- Smoked BBQ Chicken
+- Smoked BBQ Chicken (Friday Only)
 - Smoked Brisket
 - Burnt Ends
 - Smoked Sausage
