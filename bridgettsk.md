@@ -127,7 +127,7 @@ _**All dinner plates are served with 1/2 pound of meat, choice of your 2 sides &
 - Smoked Sausage       _-1/2 Link / Whole Link_
 - White Cheddar Jalapeno Smoked Sausage       _-1/2 Link / Whole Link_
   
-- BBQ Chicken       _-1/2 Chicken_
+- BBQ Chicken (Friday Only)      _-1/2 Chicken_
 
 - Buns / BBQ Bread
 - Buns
