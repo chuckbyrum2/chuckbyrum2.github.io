@@ -15,6 +15,7 @@
 ### [Panchos Villa's - High Point](http://www.mypanchovillas.com/food-menu)
 ### [Sunrise Diner - Thomasville](https://chuckbyrum2.github.io/sunrisedinernc)
 ### [Skippers Seafood - High Point](https://chuckbyrum2.github.io/skippers)
+### [Cagney's Kitchen - Lexington](https://www.cagneyskitchen.com/)
 ### [Godfather's Pizza - Lexington](https://www.godfathers.com/home)
 ### [Bridgett's Kitchen - Lexington](https://chuckbyrum2.github.io/bridgettsk)
 ### [Bar-B-Que Shack - Thomasville](https://chuckbyrum2.github.io/bbqshack)
