@@ -22,6 +22,7 @@
 ### [Bar-B-Que Shack - Thomasville](https://chuckbyrum2.github.io/bbqshack)
 ### [S&S Grill - Thomasville](https://www.menupix.com/northcarolina/restaurants/3306084/S-and-S-Grill-Thomasville-NC)
 ### [Hibachi Jr Express - Archdale](https://www.allmenus.com/nc/archdale/646891-hibachi-jr/menu/)
+### [Dixie Express - Asheboro](https://chuckbyrum2.github.io/dixieexpress)
 
 ### [Kabuto Japanese Steakhouse - Greensboro](https://www.kabutosteakhouse.com/)
 ### [Bad Daddy's Burger Bar - Greensboro/Winston Salem](https://www.baddaddysburgerbar.com)
